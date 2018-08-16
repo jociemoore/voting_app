@@ -1,6 +1,6 @@
 # Voting Application
 
-This ReactJS application sorts products by votes with the products with the most votes at the top of the feed and the products with the least votes at the bottom. Users can up-vote products, which can change the order of the products. 
+This simple ReactJS application sorts products by votes: products with the most votes are at the top of the feed and the products with the least votes are at the bottom. Users can up-vote products and change the order of the products. 
 
 https://www.fullstackreact.com/
 
